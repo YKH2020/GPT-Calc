@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/yashh/Projects/C++ Projects/PageRank/main.cpp
+iostream
+-
+iomanip
+-
+sstream
+-
+vector
+-
+map
+-
+unordered_map
+-
+string
+-
+

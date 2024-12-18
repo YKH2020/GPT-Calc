@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\PageRank.dir/objects.a
+C:\mingw\mingw32\bin\ar.exe cr CMakeFiles\PageRank.dir/objects.a @CMakeFiles\PageRank.dir\objects1.rsp
+C:\mingw\mingw32\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\PageRank.dir/objects.a -Wl,--no-whole-archive -o PageRank.exe -Wl,--out-implib,libPageRank.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\PageRank.dir\linklibs.rsp
