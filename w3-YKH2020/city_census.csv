@@ -1,0 +1,401 @@
+first,last,age,state,weight
+Earl,Myrick,36,Iowa,208
+Vikki,Gallegos,31,Iowa,187
+Elizabeth,Binegar,15,Nebraska,
+Edwina,Garcia,53,Arizona,170
+Thomas,Hinkle,2,Georgia,
+Martha,Hudgins,31,Utah,227
+Danny,Wilson,55,Iowa,205
+Beverly,Skinner,67,Missouri,233
+Martha,Brown,2,Illinois,
+Ofelia,Williams,82,New Mexico,192
+Christina,Jiggetts,15,New Jersey,
+Barbara,Sale,35,Virginia,170
+Anita,Everhardt,46,Oregon,157
+Clinton,Turner,66,Georgia,208
+Judy,Gramm,51,West Virginia,217
+William,Mccormick,51,Iowa,148
+Louise,Magana,19,Virginia,174
+John,Rosales,55,Minnesota,165
+Christine,Ware,32,Washington,191
+Raymond,Poole,2,Illinois,
+Lois,Ford,29,Vermont,189
+Joyce,Sites,64,Texas,211
+Dan,Stone,40,Arizona,193
+Rosie,Doe,52,New York,222
+Lincoln,Bogart,12,New York,
+Jo,Guevara,5,Alabama,
+James,Williams,55,Virginia,208
+Linda,Stiles,4,Kentucky,
+Henry,Silmon,77,Oregon,227
+Emma,Mcdonald,7,Kentucky,
+Shawn,Anzalone,82,Colorado,243
+Thomas,Ford,89,Indiana,142
+Barbara,Sam,5,Pennsylvania,
+Kitty,Ford,38,Texas,211
+Thomas,Brustmann,77,North Dakota,174
+James,Kendall,3,Connecticut,
+Edward,Barbe,56,New Jersey,207
+Holly,Britten,70,Delaware,195
+Nick,Kittleson,58,West Virginia,239
+Edward,Bradfield,52,Michigan,155
+Gloria,Boykin,20,Massachusetts,176
+Richard,Cantu,44,Oklahoma,184
+Olivia,Watts,34,Arizona,166
+James,Almanza,61,Alaska,211
+William,Campbell,83,Maine,226
+Stella,Hensley,33,Georgia,182
+Abigail,Sikorski,31,Idaho,180
+Terrance,Bristol,42,New Jersey,179
+Bryant,Watson,90,Maryland,172
+Danny,Boatwright,70,Arkansas,240
+Jennifer,Marien,30,Mississippi,176
+Daryl,Mack,82,New Mexico,164
+Jessica,Pharmer,10,Utah,
+Andre,Hart,6,Delaware,
+Bette,Goe,65,Tennessee,150
+Evelyn,Pham,7,Massachusetts,
+Beatrice,Bailey,20,Louisiana,229
+Margaret,Rose,15,Michigan,
+Lewis,Barraza,22,Wisconsin,242
+Amy,Cates,52,New Mexico,216
+Bethany,Blanton,51,Maryland,211
+Carlos,Guy,42,Texas,224
+Richard,Rutledge,3,Mississippi,
+Dawn,Reyes,48,South Carolina,222
+Ethel,Mckay,69,Tennessee,229
+Arthur,Miller,87,Kentucky,168
+Rosemary,Cox,44,California,231
+Doris,Issacs,70,Nevada,196
+Douglas,Thrash,14,West Virginia,
+Louise,Hyden,16,Utah,
+Patsy,Willie,48,Indiana,215
+Mattie,Byrd,2,Missouri,
+Curtis,Sparks,56,Colorado,186
+George,Rowell,69,New Hampshire,199
+Jenni,Donahue,77,Florida,207
+Herbert,Tellis,73,Vermont,190
+Ramiro,Swanson,33,California,143
+Dianne,Mara,48,Arizona,146
+Curtis,Woodson,66,Kentucky,168
+Allison,Rodriguez,40,New Jersey,233
+Julie,Kain,48,Florida,198
+Carole,Davis,67,West Virginia,237
+Janie,Ardrey,16,Maine,
+John,Arbogast,22,Massachusetts,209
+Mary,Bradley,15,Missouri,
+John,Leblanc,89,Arkansas,151
+Barbara,Kirklin,56,South Dakota,203
+Glenda,Middleton,33,South Dakota,161
+David,Alfonso,28,Virginia,235
+Mary,Pruitt,76,Wyoming,179
+Lorraine,Thompson,78,Arkansas,229
+Dallas,Conrad,22,Arizona,164
+Samantha,Rice,35,New York,190
+Anthony,Lott,13,South Carolina,
+Michael,Mestler,84,New Hampshire,239
+Bobby,Smith,59,Utah,157
+Marcos,Mcmahon,57,New Jersey,184
+Diana,Coonrod,69,Florida,147
+Adam,Israel,80,Vermont,167
+Alice,Garcia,46,Alaska,224
+Thomas,Banchero,13,Connecticut,
+Alice,Smith,90,Wyoming,218
+Shaun,Elie,46,Tennessee,179
+Thomas,Andrews,60,Minnesota,164
+Julia,Wilbanks,86,Alabama,209
+Jane,George,92,Alaska,207
+Novella,Costanzo,83,Pennsylvania,152
+Wayne,Gonzales,90,Arizona,201
+Andrea,Hines,51,Colorado,187
+Miranda,Mclamb,64,West Virginia,210
+Guy,Upson,57,Michigan,164
+Marie,Ferrell,44,Illinois,148
+Lyndsay,Rollins,51,Maryland,181
+Scott,Sheets,79,New Jersey,184
+Desiree,Cesena,31,Iowa,221
+Steve,Beasley,49,Virginia,238
+Kala,Boynton,52,Kentucky,206
+John,Dejulio,70,Washington,209
+Michael,Thompson,53,Kentucky,141
+Patricia,Trammel,48,Maine,199
+Vickey,Tharpe,6,Arkansas,
+Jessica,Maloch,38,Vermont,211
+Karen,Mcfarland,50,South Dakota,227
+Annie,Comnick,34,Idaho,224
+Eddie,Heath,12,Wyoming,
+Brian,Mikrot,58,Maine,213
+Son,Mcgranahan,77,Louisiana,179
+Phillip,Wallace,74,Maryland,224
+Martin,Caywood,89,Ohio,161
+Oscar,Chrostowski,43,Oklahoma,229
+Toby,Camano,25,North Dakota,140
+Richard,Harris,64,South Carolina,231
+Garrett,Cheng,38,New Hampshire,157
+John,Patterson,57,Kentucky,209
+Edith,Thompson,22,Louisiana,217
+Susan,Hedrington,27,Idaho,233
+Linda,Marquez,6,Pennsylvania,
+Claude,Corey,54,Florida,190
+Michael,Mathis,54,New Mexico,239
+Scott,Edmundson,47,South Dakota,230
+Herman,Groulx,55,Washington,228
+Joan,Villalobas,93,Vermont,186
+Yolanda,Walker,70,Illinois,194
+Kimberly,Hall,63,Delaware,207
+Ann,Green,64,Wyoming,140
+Toni,Hutson,61,Illinois,144
+James,Kent,26,Missouri,147
+Jeanne,Perez,86,Nebraska,223
+Allison,Waithe,9,Montana,
+Christina,Howell,26,North Dakota,169
+Evelyn,Bowles,85,Texas,238
+James,Osorno,34,Idaho,191
+Agnes,Brimage,15,North Dakota,
+Carroll,Hill,11,Kansas,
+Archie,Madden,55,Florida,212
+Gustavo,Peralta,31,Ohio,241
+Michelle,Smithson,84,New Mexico,237
+Catherine,Robinson,45,Wisconsin,141
+Angela,Jones,25,California,170
+William,Mullins,92,Montana,216
+Jerry,Torres,4,Mississippi,
+Ellen,Knox,19,Pennsylvania,200
+Albert,Moyer,74,Montana,156
+Bruce,Estes,82,Idaho,159
+Imogene,Wohlenhaus,68,Oklahoma,160
+Eric,Dulle,75,Utah,188
+Tracy,Costley,40,Louisiana,179
+Roy,Patterson,39,Wisconsin,201
+Rodney,Amelung,71,Pennsylvania,194
+Bradley,Clark,82,Oklahoma,190
+Denise,Walther,13,Nevada,
+Alvin,Stavrositu,74,Oregon,238
+Michael,Kemp,21,New York,145
+Carl,Betz,12,New Jersey,
+Tiffany,Jenkins,12,Iowa,
+Charles,Thiele,40,Iowa,222
+Curtis,Jamison,6,Utah,
+Letha,Hodges,17,California,
+Charles,Grace,79,Idaho,189
+Blanca,Rodriguez,3,Alabama,
+Kathy,Hays,41,Rhode Island,190
+Ethel,Jackson,90,New Hampshire,186
+Susan,Osborne,80,Wisconsin,147
+Mildred,White,49,Delaware,186
+Jacqueline,Tso,18,Ohio,
+Frank,Clark,35,Wisconsin,199
+Ann,Shaefer,30,Nevada,168
+Janet,Long,23,West Virginia,202
+Wendy,Reese,61,Wyoming,147
+Judy,Curtis,83,Arkansas,180
+Jordan,Mckinney,70,Louisiana,140
+Sammie,Weber,11,Michigan,
+Veronica,Doughty,93,Rhode Island,146
+Laura,Stoner,37,Florida,210
+Charlotte,Steiner,92,Alabama,147
+Sherwood,Norman,64,Maryland,221
+David,Shannon,57,California,242
+Clinton,Pena,60,Connecticut,188
+Robert,Pierce,92,Arizona,239
+Robert,Bolen,20,Vermont,200
+Rachel,Sanchez,52,Wisconsin,174
+Tamara,Brown,57,Vermont,152
+Michael,Alexander,57,New Jersey,198
+Travis,Meader,39,Indiana,184
+Hester,Sales,92,Florida,235
+Jesse,Miller,50,Iowa,179
+Roseann,Mcilhinney,78,Wyoming,235
+Vanessa,Gorman,71,Virginia,173
+Glenna,Magee,81,Kansas,204
+Laura,Toole,59,Wisconsin,213
+Matthew,Privitera,20,New Hampshire,166
+Devon,Stahl,55,New Jersey,146
+Wayne,Brundage,90,Missouri,188
+Robert,Smith,21,North Carolina,241
+Trista,Martinez,83,Vermont,157
+Lori,Mccammon,36,Wisconsin,229
+Alison,Johnson,86,South Dakota,236
+Brenda,Serrano,22,Indiana,175
+Lucie,Button,26,Connecticut,176
+Michael,Caudill,76,Maine,199
+Yesenia,Rollins,59,Louisiana,194
+Howard,Sanchez,25,Massachusetts,214
+Michelle,Shaffer,30,Maryland,146
+Melissa,Sanchez,18,South Carolina,
+Anthony,Miles,83,Montana,212
+Devin,Mayes,40,Alaska,146
+Elizabeth,Lewis,93,Kentucky,182
+Thomas,Cornell,8,Vermont,
+Susan,Sheehan,68,South Dakota,231
+Janet,Gregson,29,Iowa,156
+Deon,Moses,9,Louisiana,
+Bill,Goldsmith,43,New York,205
+Tanya,Bolton,3,Ohio,
+Zachary,Brown,26,Texas,242
+Allan,Weinzierl,15,Michigan,
+Marilyn,Brown,77,Nebraska,177
+Lisa,Jackson,60,New Hampshire,230
+David,Salmon,71,Hawaii,199
+Gregory,Miller,38,Florida,227
+Clifford,Henkel,81,New Mexico,225
+Heriberto,Washam,81,Utah,239
+Jonathan,Bermudez,57,Mississippi,156
+Debra,Barrera,13,Oregon,
+Joe,Little,14,Nebraska,
+Richard,Winn,77,North Carolina,146
+Paul,England,15,Florida,
+Erica,Winchester,90,Kentucky,197
+William,Burket,52,Massachusetts,154
+Katelyn,Delgado,87,Arkansas,179
+James,Mulinix,82,Oklahoma,149
+Milton,Ashlock,8,Delaware,
+Patricia,Campbell,73,Tennessee,155
+Charles,Pittman,61,Delaware,243
+Mildred,Rizzo,28,New Mexico,153
+Jessica,Clark,86,Utah,243
+Jean,Blair,33,New Hampshire,211
+Bryan,Harris,93,Iowa,149
+Kelly,Kuhls,50,Colorado,184
+Marvin,Hodge,57,Mississippi,167
+Margaret,Williams,73,Missouri,210
+Wm,Reither,28,Georgia,236
+Richard,Smith,28,Illinois,192
+Patrick,Mills,60,Connecticut,215
+Robert,Ruvalcaba,40,Nebraska,194
+Billy,Cooke,52,Alaska,197
+Jill,Mccary,77,New Hampshire,186
+Carl,Mendieta,4,Nevada,
+Brian,Mulcahy,8,Vermont,
+Claire,Juarez,81,Alabama,170
+Pamela,Timm,7,Kentucky,
+Frederick,Rilley,65,Vermont,179
+Marc,Ragan,4,Vermont,
+Casey,Charles,3,Delaware,
+Nannie,Deibert,61,Oklahoma,238
+Bernice,Bentley,35,Rhode Island,162
+Marian,Pearce,25,Montana,178
+Pamela,Dorsey,7,Pennsylvania,
+Allen,Haas,87,Maryland,180
+Santos,Lawson,41,Hawaii,208
+Sara,Robinson,46,Connecticut,187
+Helen,Gregory,73,Louisiana,148
+Sheryl,Ferguson,21,Indiana,188
+Kathryn,Joubert,44,Missouri,240
+Samuel,Aspinall,59,Montana,184
+Miss,Martinez,30,Minnesota,214
+Victor,Hill,86,Colorado,220
+Violet,Holmes,30,West Virginia,176
+Thomas,Ledbetter,11,Wisconsin,
+Mary,Gentry,53,New Mexico,145
+Alexander,Horrell,62,Michigan,208
+Henrietta,Williams,54,Georgia,194
+Dorothy,Turner,15,Iowa,
+Joyce,Helton,6,Alaska,
+Margarita,Paulsen,72,Maine,201
+Troy,Rahe,12,New Hampshire,
+Peggy,Mitchell,69,Minnesota,208
+Charles,Primeaux,38,Tennessee,147
+Corey,Daniel,72,Maryland,237
+Deborah,Whittmore,37,Maryland,198
+Christian,Treto,50,New Hampshire,164
+John,Bayard,89,Nevada,204
+Beatrice,Wiebe,86,South Carolina,177
+Stephen,Hodo,32,Iowa,183
+Charles,Hall,90,Virginia,220
+Gerald,Williams,83,New Jersey,200
+Harold,Ferris,56,Mississippi,185
+Thomas,Hale,30,Michigan,185
+Graham,Whiteman,93,North Dakota,203
+Bernard,Copeland,29,Tennessee,242
+Ben,Stutzman,45,Kentucky,174
+Lucille,Tippin,82,Michigan,167
+Walter,Ballinger,56,North Carolina,146
+Ryan,Phelps,67,North Carolina,214
+Renee,Lewis,27,North Dakota,142
+Frank,Crow,36,Missouri,184
+Adrian,Bergeron,15,Tennessee,
+David,Gray,2,Florida,
+Vicki,Steele,5,Louisiana,
+Vida,Medrano,88,Arizona,161
+Linda,Miller,45,South Carolina,145
+Laura,Aitken,47,Maryland,228
+Geri,Addiego,29,Montana,188
+Clara,Larsen,5,South Dakota,
+Julie,Rush,12,Connecticut,
+Robert,Mayoras,27,New York,170
+James,Seiberling,65,Wyoming,179
+John,Williams,85,Oklahoma,170
+Ethel,Kolb,12,Hawaii,
+Cathy,Tardif,89,Illinois,207
+Janene,Fields,67,Virginia,217
+Andrew,Puffinburger,5,Texas,
+Deedee,Griffin,12,Alabama,
+Mary,Schwantes,45,Montana,160
+John,Lopez,15,Louisiana,
+Marylyn,Perez,14,Michigan,
+Jacob,Treece,13,South Carolina,
+Amelia,Halley,87,Vermont,157
+Robert,Mittman,88,Massachusetts,191
+Eric,Voskamp,7,Kentucky,
+Marilyn,Jones,30,Kansas,220
+Ethel,Bruyere,34,Ohio,147
+Jared,Zbell,8,Vermont,
+Frank,Landingham,92,Nevada,144
+Yvette,Swanson,90,Texas,152
+Marion,Smith,57,Michigan,149
+Steven,Landes,39,Nebraska,144
+Amy,Toner,16,Alabama,
+Sophia,Estep,93,Virginia,222
+Richard,Rodriguez,58,California,145
+Marie,Stcharles,76,Rhode Island,204
+Michael,Owens,24,Connecticut,188
+Tamala,Duncan,20,Wisconsin,139
+Savannah,Stevens,89,Oklahoma,174
+John,Sharp,32,Alabama,151
+Charlotte,Powell,9,North Dakota,
+Craig,Greenway,9,New Mexico,
+Mary,Swindell,44,Louisiana,240
+Ralph,Sherrill,12,Alaska,
+Charles,Cardwell,10,Kansas,
+Jennifer,Estey,72,Connecticut,197
+Barbara,Johnson,32,South Carolina,243
+Catherine,Lovett,47,New Mexico,206
+Christian,Grant,40,Wisconsin,183
+Antonio,Bluhm,28,Georgia,226
+Nancy,Mckeller,49,Alaska,180
+Larry,Cass,49,Kansas,165
+Adam,Warren,32,Nevada,144
+Dan,Scott,93,Wyoming,226
+Nicolette,Young,53,Maryland,163
+Mary,Troy,88,New Jersey,240
+Helene,Jaegers,13,Utah,
+Marty,Hernandez,30,West Virginia,201
+Brenda,Whitlock,39,Massachusetts,177
+Brenda,Lindsey,29,Alabama,218
+Jason,Pagel,84,Kansas,219
+Richard,Wilson,7,Ohio,
+Edwin,Capobianco,71,Oklahoma,222
+Bambi,Anderson,12,Arkansas,
+Latrice,Fields,62,Kansas,215
+Julian,Caggiano,83,Arizona,219
+Joseph,Faler,31,Montana,208
+Mary,Williams,70,New Jersey,145
+Peter,Kern,57,Georgia,226
+Annette,Rehberg,74,Maryland,241
+Cecilia,Gonzalez,17,Missouri,
+Evelyn,Carl,26,Alabama,243
+Daniel,Ruiz,17,Florida,
+Cruz,Knauss,14,Mississippi,
+Stephen,Dubois,46,New York,221
+Duane,Mackey,30,Massachusetts,153
+Clara,Anding,50,North Dakota,155
+Teresa,Ford,42,Arkansas,170
+Rodney,Sullivan,67,North Carolina,173
+Deanna,Bangert,42,Maine,170
+Randall,Brown,39,Arkansas,148
+Amy,Spears,54,Nevada,231
+Deanna,Custard,28,Washington,154
+Amy,Hicks,86,Kentucky,241
+Tom,London,44,Vermont,146
+Alex,Hull,81,Nevada,243
